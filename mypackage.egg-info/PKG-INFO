@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Rayo-Johnson/mypackage
+Author: Tunrayo
+Author-email: samotunrayo@gmail.com
+License: MIT
+
+# my package
+This library was created as a test, not sure how it works yet but we will find out.
+
+# How to install
